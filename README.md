@@ -44,9 +44,9 @@ pkg install git -y
 
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 
-cd YOUR_REPO
+cd setup.sh
 
-python setup.py
+python setup.sh
 
 ---
 
