@@ -42,7 +42,7 @@ pkg update && pkg upgrade -y
 
 pkg install git -y
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/xzhasan/termux-setup.git
 
 cd setup.sh
 
